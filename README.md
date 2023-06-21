@@ -1,1 +1,1 @@
-# JavaDeepDive
+# Core Java
